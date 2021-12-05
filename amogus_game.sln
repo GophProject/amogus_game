@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "amogus_game", "amogus_game\amogus_game.csproj", "{93B28AE0-D280-42E2-90C7-BB61B412CF4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93B28AE0-D280-42E2-90C7-BB61B412CF4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93B28AE0-D280-42E2-90C7-BB61B412CF4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93B28AE0-D280-42E2-90C7-BB61B412CF4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93B28AE0-D280-42E2-90C7-BB61B412CF4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {540C8E13-EE07-43D3-83BC-16B68EA622DF}
+	EndGlobalSection
+EndGlobal
